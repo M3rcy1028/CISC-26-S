@@ -1,0 +1,13 @@
+feature,occurrence_count
+Protocol,7
+SYN Flag Cnt,7
+Src Port,6
+Init Bwd Win Byts,5
+Down/Up Ratio,4
+Dst Port,3
+ACK Flag Cnt,2
+Flow Duration,2
+FIN Flag Cnt,1
+Flow IAT Std,1
+Fwd IAT Tot,1
+Fwd IAT Mean,1

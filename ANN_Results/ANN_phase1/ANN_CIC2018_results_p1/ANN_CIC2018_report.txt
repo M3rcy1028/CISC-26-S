@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: ANN
+Accuracy: 0.99959773
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   1.000000  1.000000  1.000000     15000
+        DoS attacks-Hulk   1.000000  1.000000  1.000000     15000
+                     Bot   0.999933  0.999667  0.999800     15000
+          FTP-BruteForce   0.999933  1.000000  0.999967     15000
+          SSH-Bruteforce   1.000000  1.000000  1.000000     15000
+            Infiltration   0.999534  0.999933  0.999733     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   1.000000  0.999920  0.999960     12453
+   DoS attacks-Slowloris   0.999697  1.000000  0.999848      3297
+    DDOS attack-LOIC-UDP   1.000000  1.000000  1.000000       519
+        Brute Force -Web   0.773913  0.972678  0.861985       183
+        Brute Force -XSS   0.939394  0.449275  0.607843        69
+           SQL Injection   0.769231  0.384615  0.512821        26
+                  normal   1.000000  0.999967  0.999983     30000
+
+                accuracy                       0.999598    166547
+               macro avg   0.965442  0.920404  0.932129    166547
+            weighted avg   0.999630  0.999598  0.999556    166547

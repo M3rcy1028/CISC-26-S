@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: KNN
+Accuracy: 0.99951365
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   0.999933  1.000000  0.999967     15000
+        DoS attacks-Hulk   1.000000  1.000000  1.000000     15000
+                     Bot   1.000000  0.999600  0.999800     15000
+          FTP-BruteForce   0.999867  1.000000  0.999933     15000
+          SSH-Bruteforce   0.999933  1.000000  0.999967     15000
+            Infiltration   0.999067  0.999800  0.999434     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   0.999116  0.998073  0.998594     12453
+   DoS attacks-Slowloris   0.990953  0.996664  0.993800      3297
+    DDOS attack-LOIC-UDP   0.998077  1.000000  0.999038       519
+        Brute Force -Web   0.936508  0.967213  0.951613       183
+        Brute Force -XSS   0.942857  0.956522  0.949640        69
+           SQL Injection   0.888889  0.307692  0.457143        26
+                  normal   0.999867  0.999667  0.999767     30000
+
+                accuracy                       0.999514    166547
+               macro avg   0.983671  0.948349  0.956580    166547
+            weighted avg   0.999506  0.999514  0.999487    166547

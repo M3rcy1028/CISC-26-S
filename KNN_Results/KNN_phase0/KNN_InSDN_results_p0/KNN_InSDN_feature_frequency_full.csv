@@ -1,0 +1,37 @@
+feature,occurrence_count
+Dst Port,8
+Down/Up Ratio,8
+Src Port,8
+Flow Duration,8
+SYN Flag Cnt,8
+FIN Flag Cnt,8
+Init Bwd Win Byts,8
+ACK Flag Cnt,8
+Protocol,7
+Bwd PSH Flags,7
+Fwd IAT Tot,7
+Flow IAT Max,7
+PSH Flag Cnt,7
+Bwd IAT Tot,7
+Bwd Pkts/s,6
+Flow Pkts/s,6
+Flow IAT Std,4
+Bwd Pkt Len Min,4
+Pkt Len Min,4
+Pkt Len Max,3
+Fwd IAT Max,3
+Bwd Pkt Len Max,3
+Idle Mean,3
+Bwd IAT Max,3
+Idle Min,2
+Idle Max,2
+Bwd IAT Std,2
+Pkt Len Mean,1
+Fwd Pkt Len Max,1
+Fwd Pkt Len Mean,1
+Pkt Len Std,1
+Bwd Pkt Len Std,1
+Flow IAT Min,1
+Fwd IAT Std,1
+Fwd Pkt Len Min,1
+Tot Fwd Pkts,1
