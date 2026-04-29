@@ -1,3 +1,4 @@
 /config.py
 /main.py
-/utils.py
+/utils.py__pycache__/
+*.pyc
