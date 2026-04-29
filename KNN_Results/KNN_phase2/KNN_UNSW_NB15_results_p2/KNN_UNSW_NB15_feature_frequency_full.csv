@@ -1,0 +1,16 @@
+feature,occurrence_count
+sttl,10
+dttl,6
+ct_srv_dst,5
+smeansz,4
+ct_srv_src,4
+stime,4
+ltime,4
+ct_state_ttl,3
+ct_dst_sport_ltm,2
+ct_dst_src_ltm,2
+dtcpb,2
+dwin,1
+swin,1
+stcpb,1
+dmeansz,1

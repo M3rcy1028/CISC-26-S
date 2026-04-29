@@ -1,0 +1,8 @@
+feature,occurrence_count
+ACK Flag Cnt,7
+Src Port,7
+SYN Flag Cnt,3
+Dst Port,2
+Protocol,2
+Down/Up Ratio,2
+Init Bwd Win Byts,1

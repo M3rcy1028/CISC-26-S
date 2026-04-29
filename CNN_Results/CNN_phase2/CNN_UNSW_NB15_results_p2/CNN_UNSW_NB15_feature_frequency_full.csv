@@ -1,0 +1,10 @@
+feature,occurrence_count
+ct_state_ttl,10
+sttl,10
+dttl,9
+smeansz,8
+dwin,6
+swin,3
+stime,2
+ct_srv_dst,1
+dmeansz,1

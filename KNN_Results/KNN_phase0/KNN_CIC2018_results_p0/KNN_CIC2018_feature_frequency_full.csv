@@ -1,0 +1,43 @@
+feature,occurrence_count
+Bwd Pkt Len Std,15
+Bwd Pkt Len Max,15
+ACK Flag Cnt,15
+PSH Flag Cnt,15
+Timestamp,15
+Init Fwd Win Byts,15
+Fwd Seg Size Min,15
+ECE Flag Cnt,14
+Bwd Seg Size Avg,14
+Bwd Pkt Len Mean,14
+RST Flag Cnt,14
+Init Bwd Win Byts,13
+Dst Port,12
+URG Flag Cnt,12
+Flow Pkts/s,11
+Fwd IAT Tot,11
+Flow Duration,11
+Pkt Size Avg,8
+Protocol,8
+Bwd IAT Tot,7
+Bwd Pkts/s,7
+Fwd Pkts/s,6
+Bwd IAT Max,5
+Flow IAT Max,5
+Pkt Len Mean,3
+Fwd PSH Flags,2
+Fwd Pkt Len Std,2
+Bwd Pkt Len Min,2
+Active Std,1
+Active Mean,1
+Bwd IAT Std,1
+Fwd IAT Max,1
+Bwd IAT Mean,1
+Flow Byts/s,1
+Pkt Len Max,1
+Pkt Len Var,1
+Fwd Pkt Len Min,1
+Pkt Len Min,1
+Fwd IAT Mean,1
+Idle Max,1
+SYN Flag Cnt,1
+Fwd Act Data Pkts,1

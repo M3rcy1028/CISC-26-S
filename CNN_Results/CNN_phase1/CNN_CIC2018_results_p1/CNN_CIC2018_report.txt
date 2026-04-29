@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: CNN
+Accuracy: 0.99955571
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   1.000000  1.000000  1.000000     15000
+        DoS attacks-Hulk   1.000000  1.000000  1.000000     15000
+                     Bot   0.999667  0.999733  0.999700     15000
+          FTP-BruteForce   0.999867  1.000000  0.999933     15000
+          SSH-Bruteforce   0.999867  1.000000  0.999933     15000
+            Infiltration   0.999733  0.999667  0.999700     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   0.999839  0.999920  0.999880     12453
+   DoS attacks-Slowloris   0.999697  1.000000  0.999848      3297
+    DDOS attack-LOIC-UDP   1.000000  1.000000  1.000000       519
+        Brute Force -Web   0.772926  0.967213  0.859223       183
+        Brute Force -XSS   0.939394  0.449275  0.607843        69
+           SQL Injection   0.733333  0.423077  0.536585        26
+                  normal   1.000000  0.999833  0.999917     30000
+
+                accuracy                       0.999556    166547
+               macro avg   0.962955  0.922581  0.933504    166547
+            weighted avg   0.999588  0.999556  0.999517    166547

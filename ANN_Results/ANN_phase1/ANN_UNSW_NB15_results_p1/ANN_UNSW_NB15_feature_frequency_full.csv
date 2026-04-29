@@ -1,0 +1,17 @@
+feature,occurrence_count
+dttl,10
+stime,10
+sttl,10
+dmeansz,10
+ltime,10
+smeansz,9
+swin,8
+ct_state_ttl,7
+dwin,7
+ct_dst_sport_ltm,5
+dload,5
+ct_srv_dst,4
+ct_src_dport_ltm,2
+dur,1
+ct_dst_src_ltm,1
+trans_depth,1

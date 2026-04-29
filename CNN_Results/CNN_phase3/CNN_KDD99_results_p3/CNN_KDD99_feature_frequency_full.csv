@@ -1,0 +1,16 @@
+feature,occurrence_count
+service_http,12
+dst_host_same_src_port_rate,8
+srv_count,8
+logged_in,8
+service_ecr_i,6
+dst_host_srv_count,5
+service_ftp,4
+hot,3
+is_guest_login,3
+dst_host_rerror_rate,2
+service_private,2
+srv_rerror_rate,2
+same_srv_rate,1
+serror_rate,1
+dst_host_same_srv_rate,1
