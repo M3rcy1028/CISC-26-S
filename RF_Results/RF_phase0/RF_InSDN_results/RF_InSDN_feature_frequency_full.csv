@@ -1,0 +1,44 @@
+feature,occurrence_count
+Dst Port,8
+Bwd Header Len,8
+Init Bwd Win Byts,8
+Fwd Header Len,8
+Src Port,8
+Protocol,7
+Tot Fwd Pkts,7
+Subflow Fwd Pkts,7
+Pkt Len Std,6
+Bwd Pkt Len Max,6
+Pkt Len Max,6
+Fwd Pkts/s,6
+Bwd Pkts/s,6
+Pkt Size Avg,5
+Flow IAT Max,5
+Down/Up Ratio,5
+Bwd Pkt Len Std,4
+Pkt Len Mean,4
+Flow Pkts/s,4
+SYN Flag Cnt,3
+Bwd Seg Size Avg,3
+Bwd Pkt Len Min,3
+Flow Duration,3
+Fwd IAT Tot,3
+ACK Flag Cnt,3
+Fwd Pkt Len Std,2
+Subflow Bwd Pkts,2
+Tot Bwd Pkts,2
+Fwd IAT Mean,2
+FIN Flag Cnt,2
+Fwd IAT Max,2
+Pkt Len Var,1
+Flow IAT Min,1
+Flow IAT Std,1
+Flow IAT Mean,1
+Bwd Pkt Len Mean,1
+Bwd IAT Std,1
+Bwd IAT Max,1
+Fwd Seg Size Avg,1
+Fwd Pkt Len Max,1
+Fwd Pkt Len Mean,1
+Pkt Len Min,1
+Fwd Pkt Len Min,1

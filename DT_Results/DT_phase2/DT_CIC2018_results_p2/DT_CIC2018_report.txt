@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: DT
+Accuracy: 0.99998799
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   1.000000  1.000000  1.000000     15000
+        DoS attacks-Hulk   1.000000  1.000000  1.000000     15000
+                     Bot   1.000000  1.000000  1.000000     15000
+          FTP-BruteForce   1.000000  1.000000  1.000000     15000
+          SSH-Bruteforce   1.000000  1.000000  1.000000     15000
+            Infiltration   1.000000  1.000000  1.000000     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   1.000000  1.000000  1.000000     12453
+   DoS attacks-Slowloris   1.000000  1.000000  1.000000      3297
+    DDOS attack-LOIC-UDP   1.000000  1.000000  1.000000       519
+        Brute Force -Web   0.994565  1.000000  0.997275       183
+        Brute Force -XSS   1.000000  0.985507  0.992701        69
+           SQL Injection   0.961538  0.961538  0.961538        26
+                  normal   1.000000  1.000000  1.000000     30000
+
+                accuracy                       0.999988    166547
+               macro avg   0.997074  0.996470  0.996768    166547
+            weighted avg   0.999988  0.999988  0.999988    166547

@@ -1,0 +1,36 @@
+feature,occurrence_count
+Subflow Bwd Pkts,15
+Idle Std,15
+Subflow Fwd Byts,15
+Active Min,15
+Active Std,15
+Idle Min,15
+Subflow Bwd Byts,15
+Fwd Seg Size Min,15
+Init Bwd Win Byts,15
+Fwd Act Data Pkts,15
+Active Mean,15
+Idle Max,15
+Idle Mean,15
+Timestamp,15
+Active Max,15
+Init Fwd Win Byts,15
+Subflow Fwd Pkts,12
+Fwd Blk Rate Avg,12
+Bwd Blk Rate Avg,7
+Bwd Pkts/b Avg,5
+Fwd Header Len,4
+Dst Port,3
+Down/Up Ratio,2
+URG Flag Cnt,2
+Bwd IAT Min,2
+Tot Fwd Pkts,2
+TotLen Bwd Pkts,1
+Flow IAT Std,1
+PSH Flag Cnt,1
+Flow IAT Max,1
+Fwd Seg Size Avg,1
+Pkt Size Avg,1
+Fwd IAT Min,1
+Fwd IAT Max,1
+Fwd Pkts/s,1

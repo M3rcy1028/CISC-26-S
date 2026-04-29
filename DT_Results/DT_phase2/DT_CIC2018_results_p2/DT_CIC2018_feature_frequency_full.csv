@@ -1,0 +1,13 @@
+feature,occurrence_count
+Timestamp,15
+Init Bwd Win Byts,14
+Idle Std,11
+URG Flag Cnt,9
+PSH Flag Cnt,8
+Dst Port,4
+Tot Fwd Pkts,4
+Fwd Seg Size Min,3
+Bwd IAT Min,3
+Down/Up Ratio,2
+Pkt Size Avg,1
+Flow IAT Std,1

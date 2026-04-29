@@ -1,0 +1,15 @@
+feature,occurrence_count
+Init Bwd Win Byts,8
+Protocol,8
+ACK Flag Cnt,8
+FIN Flag Cnt,8
+Dst Port,8
+SYN Flag Cnt,8
+Src Port,8
+Down/Up Ratio,7
+Flow Duration,5
+PSH Flag Cnt,4
+Bwd PSH Flags,3
+Bwd IAT Tot,3
+Bwd IAT Max,1
+Flow IAT Max,1

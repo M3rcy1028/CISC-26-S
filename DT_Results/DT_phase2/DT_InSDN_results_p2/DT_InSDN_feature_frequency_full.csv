@@ -1,0 +1,15 @@
+feature,occurrence_count
+Dst Port,8
+Bwd Header Len,7
+Init Bwd Win Byts,7
+Src Port,5
+Fwd IAT Max,3
+Pkt Len Max,2
+Fwd Header Len,1
+Flow IAT Min,1
+Flow IAT Std,1
+Fwd IAT Min,1
+Flow IAT Max,1
+ACK Flag Cnt,1
+Bwd Pkt Len Std,1
+Bwd Pkt Len Max,1
