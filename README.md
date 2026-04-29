@@ -49,7 +49,7 @@ Feature reduction is performed in phases:
 - KDD99
 - UNSW-NB15
 - CIC-IDS2018
-- InSDN :contentReference[oaicite:0]{index=0}  
+- InSDN
 
 ---
 
@@ -71,22 +71,24 @@ Feature reduction is performed in phases:
 - Overall accuracy may remain stable, but **class-level performance can vary significantly**
 - Some minority classes suffer from feature removal
 
-> Feature reduction does not necessarily degrade IDS performance — in some cases, it improves efficiency and generalization :contentReference[oaicite:1]{index=1}
+> Feature reduction does not necessarily degrade IDS performance — in some cases, it improves efficiency and generalization 
 
 ---
 
 ## 🛠 Environment
 
 - Python: **3.11.14**
-- Package management: Conda / Pip
+- Ubuntu 22.04.5 LTS
+- Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz
+- NVIDIA RTX A6000 
 
-### 주요 라이브러리
-- numpy
-- pandas
-- scikit-learn
-- tensorflow
-- shap
-- matplotlib
-- seaborn :contentReference[oaicite:2]{index=2}  
-
-전체 패키지는 아래 파일 참고:
+### Main library
+```
+- numpy 2.4.3
+- pandas 3.0.1
+- scikit-learn 1.8.0
+- tensorflow 2.21.0
+- shap 0.51.0
+- matplotlib 3.10.8
+- seaborn 0.13.2
+```
