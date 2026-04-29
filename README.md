@@ -25,7 +25,7 @@ To address these issues, this project applies SHAP-based feature importance to p
 ---
 
 ## 🧪 Methodology
-![Methodology Process](figs/experiment_process.png)
+<img src="figs/experiment_process.png" width="60%">
 The experiment consists of the following steps:
 
 1. Data preprocessing (normalization & balancing)
@@ -34,7 +34,7 @@ The experiment consists of the following steps:
 4. Feature selection based on importance
 5. Iterative feature reduction
 
-![Methodology FS](figs/feature_reduction_eng.png)
+<img src="figs/feature_reduction_eng.png" width="80%">
 Feature reduction is performed in phases:
 
 - **P0**: All features
