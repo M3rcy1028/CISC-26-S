@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: RF
+Accuracy: 0.9999
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   1.000000  1.000000  1.000000     15000
+        DoS attacks-Hulk   1.000000  1.000000  1.000000     15000
+                     Bot   1.000000  1.000000  1.000000     15000
+          FTP-BruteForce   1.000000  1.000000  1.000000     15000
+          SSH-Bruteforce   1.000000  1.000000  1.000000     15000
+            Infiltration   0.999933  1.000000  0.999967     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   1.000000  1.000000  1.000000     12453
+   DoS attacks-Slowloris   1.000000  0.999697  0.999848      3297
+    DDOS attack-LOIC-UDP   1.000000  1.000000  1.000000       519
+        Brute Force -Web   0.983240  0.961749  0.972376       183
+        Brute Force -XSS   1.000000  0.927536  0.962406        69
+           SQL Injection   0.781250  0.961538  0.862069        26
+                  normal   0.999900  1.000000  0.999950     30000
+
+                accuracy                       0.999916    166547
+               macro avg   0.984288  0.990035  0.986441    166547
+            weighted avg   0.999923  0.999916  0.999918    166547

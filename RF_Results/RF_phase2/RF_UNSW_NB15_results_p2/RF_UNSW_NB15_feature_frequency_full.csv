@@ -1,0 +1,15 @@
+feature,occurrence_count
+sbytes,9
+sttl,9
+smeansz,7
+ct_state_ttl,5
+ct_srv_dst,5
+ct_dst_src_ltm,3
+ct_dst_sport_ltm,2
+ltime,2
+dmeansz,2
+dload,2
+dbytes,1
+synack,1
+trans_depth,1
+stime,1

@@ -1,0 +1,25 @@
+Dataset: CIC2018
+Model: SVM
+Accuracy: 0.99308904
+--------------------------------------------------
+                          precision    recall  f1-score   support
+
+        DDOS attack-HOIC   1.000000  1.000000  1.000000     15000
+  DDoS attacks-LOIC-HTTP   1.000000  1.000000  1.000000     15000
+        DoS attacks-Hulk   0.999933  1.000000  0.999967     15000
+                     Bot   1.000000  1.000000  1.000000     15000
+          FTP-BruteForce   0.999201  1.000000  0.999600     15000
+          SSH-Bruteforce   0.999867  1.000000  0.999933     15000
+            Infiltration   1.000000  1.000000  1.000000     15000
+DoS attacks-SlowHTTPTest   1.000000  1.000000  1.000000     15000
+   DoS attacks-GoldenEye   0.923123  0.998956  0.959543     12453
+   DoS attacks-Slowloris   0.993849  0.686078  0.811771      3297
+    DDOS attack-LOIC-UDP   1.000000  1.000000  1.000000       519
+        Brute Force -Web   0.919355  0.622951  0.742671       183
+        Brute Force -XSS   0.471831  0.971014  0.635071        69
+           SQL Injection   0.909091  0.384615  0.540541        26
+                  normal   1.000000  0.999467  0.999733     30000
+
+                accuracy                       0.993089    166547
+               macro avg   0.947750  0.910872  0.912589    166547
+            weighted avg   0.993718  0.993089  0.992650    166547

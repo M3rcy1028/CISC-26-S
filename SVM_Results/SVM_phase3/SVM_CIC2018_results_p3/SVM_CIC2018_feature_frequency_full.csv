@@ -1,0 +1,10 @@
+feature,occurrence_count
+Timestamp,15
+PSH Flag Cnt,7
+Init Fwd Win Byts,7
+Fwd Seg Size Min,5
+ACK Flag Cnt,3
+ECE Flag Cnt,2
+RST Flag Cnt,2
+Bwd Pkt Len Std,2
+Bwd Pkt Len Max,2

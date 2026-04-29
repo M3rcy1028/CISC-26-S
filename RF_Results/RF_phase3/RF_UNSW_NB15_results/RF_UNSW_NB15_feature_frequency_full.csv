@@ -1,0 +1,10 @@
+feature,occurrence_count
+sttl,8
+sbytes,7
+smeansz,5
+ct_state_ttl,3
+ct_dst_src_ltm,2
+ct_srv_dst,2
+dbytes,1
+dmeansz,1
+ltime,1

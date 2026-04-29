@@ -1,0 +1,13 @@
+feature,occurrence_count
+sbytes,10
+sttl,10
+smeansz,8
+ct_dst_src_ltm,5
+dmeansz,4
+dbytes,3
+sloss,2
+ct_srv_dst,2
+trans_depth,2
+synack,2
+stime,1
+ct_state_ttl,1

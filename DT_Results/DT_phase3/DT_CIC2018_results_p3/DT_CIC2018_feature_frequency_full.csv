@@ -1,0 +1,9 @@
+feature,occurrence_count
+Timestamp,15
+Flow IAT Std,9
+Down/Up Ratio,8
+Tot Fwd Pkts,4
+Dst Port,3
+Fwd Seg Size Min,3
+URG Flag Cnt,2
+Bwd IAT Min,1
